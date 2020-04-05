@@ -5,9 +5,9 @@ channel_sources:
 channel_targets:
 - conda-forge main
 go_variant_str:
-- precompiled
+- cgo
 go_variant_version:
-- 1.1.0
+- 1.2.1
 macos_machine:
 - x86_64-apple-darwin13.4.0
 macos_min_version:

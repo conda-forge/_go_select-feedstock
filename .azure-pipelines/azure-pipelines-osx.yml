@@ -10,14 +10,14 @@ jobs:
   strategy:
     maxParallel: 8
     matrix:
-      osx_go_variant_strcgogo_variant_version1.2.1:
-        CONFIG: osx_go_variant_strcgogo_variant_version1.2.1
+      osx_go_variant_strcgogo_variant_version2.3.0:
+        CONFIG: osx_go_variant_strcgogo_variant_version2.3.0
         UPLOAD_PACKAGES: True
-      osx_go_variant_strnocgogo_variant_version1.3.1:
-        CONFIG: osx_go_variant_strnocgogo_variant_version1.3.1
+      osx_go_variant_strnocgogo_variant_version2.2.0:
+        CONFIG: osx_go_variant_strnocgogo_variant_version2.2.0
         UPLOAD_PACKAGES: True
-      osx_go_variant_strprecompiledgo_variant_version1.1.1:
-        CONFIG: osx_go_variant_strprecompiledgo_variant_version1.1.1
+      osx_go_variant_strprecompiledgo_variant_version2.1.0:
+        CONFIG: osx_go_variant_strprecompiledgo_variant_version2.1.0
         UPLOAD_PACKAGES: True
 
   steps:

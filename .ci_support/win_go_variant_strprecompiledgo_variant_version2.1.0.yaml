@@ -2,12 +2,10 @@ channel_sources:
 - conda-forge,defaults
 channel_targets:
 - conda-forge main
-docker_image:
-- condaforge/linux-anvil-comp7
 go_variant_str:
-- cgo
+- precompiled
 go_variant_version:
-- 1.2.1
+- 2.1.0
 zip_keys:
 - - go_variant_version
   - go_variant_str

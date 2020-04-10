@@ -10,16 +10,16 @@ jobs:
   strategy:
     maxParallel: 8
     matrix:
-      linux_go_variant_strcgogo_variant_version1.2.1:
-        CONFIG: linux_go_variant_strcgogo_variant_version1.2.1
+      linux_go_variant_strcgogo_variant_version2.3.0:
+        CONFIG: linux_go_variant_strcgogo_variant_version2.3.0
         UPLOAD_PACKAGES: True
         DOCKER_IMAGE: condaforge/linux-anvil-comp7
-      linux_go_variant_strnocgogo_variant_version1.3.1:
-        CONFIG: linux_go_variant_strnocgogo_variant_version1.3.1
+      linux_go_variant_strnocgogo_variant_version2.2.0:
+        CONFIG: linux_go_variant_strnocgogo_variant_version2.2.0
         UPLOAD_PACKAGES: True
         DOCKER_IMAGE: condaforge/linux-anvil-comp7
-      linux_go_variant_strprecompiledgo_variant_version1.1.1:
-        CONFIG: linux_go_variant_strprecompiledgo_variant_version1.1.1
+      linux_go_variant_strprecompiledgo_variant_version2.1.0:
+        CONFIG: linux_go_variant_strprecompiledgo_variant_version2.1.0
         UPLOAD_PACKAGES: True
         DOCKER_IMAGE: condaforge/linux-anvil-comp7
   steps:

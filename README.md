@@ -35,66 +35,66 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_go_variant_strcgogo_variant_version1.2.1</td>
+              <td>linux_go_variant_strcgogo_variant_version2.3.0</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=linux&configuration=linux_go_variant_strcgogo_variant_version1.2.1" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=linux&configuration=linux_go_variant_strcgogo_variant_version2.3.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_go_variant_strnocgogo_variant_version1.3.1</td>
+              <td>linux_go_variant_strnocgogo_variant_version2.2.0</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=linux&configuration=linux_go_variant_strnocgogo_variant_version1.3.1" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=linux&configuration=linux_go_variant_strnocgogo_variant_version2.2.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_go_variant_strprecompiledgo_variant_version1.1.1</td>
+              <td>linux_go_variant_strprecompiledgo_variant_version2.1.0</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=linux&configuration=linux_go_variant_strprecompiledgo_variant_version1.1.1" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=linux&configuration=linux_go_variant_strprecompiledgo_variant_version2.1.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_go_variant_strcgogo_variant_version1.2.1</td>
+              <td>osx_go_variant_strcgogo_variant_version2.3.0</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=osx&configuration=osx_go_variant_strcgogo_variant_version1.2.1" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=osx&configuration=osx_go_variant_strcgogo_variant_version2.3.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_go_variant_strnocgogo_variant_version1.3.1</td>
+              <td>osx_go_variant_strnocgogo_variant_version2.2.0</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=osx&configuration=osx_go_variant_strnocgogo_variant_version1.3.1" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=osx&configuration=osx_go_variant_strnocgogo_variant_version2.2.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_go_variant_strprecompiledgo_variant_version1.1.1</td>
+              <td>osx_go_variant_strprecompiledgo_variant_version2.1.0</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=osx&configuration=osx_go_variant_strprecompiledgo_variant_version1.1.1" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=osx&configuration=osx_go_variant_strprecompiledgo_variant_version2.1.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_go_variant_strcgogo_variant_version1.2.1</td>
+              <td>win_go_variant_strcgogo_variant_version2.3.0</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=win&configuration=win_go_variant_strcgogo_variant_version1.2.1" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=win&configuration=win_go_variant_strcgogo_variant_version2.3.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_go_variant_strnocgogo_variant_version1.3.1</td>
+              <td>win_go_variant_strnocgogo_variant_version2.2.0</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=win&configuration=win_go_variant_strnocgogo_variant_version1.3.1" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=win&configuration=win_go_variant_strnocgogo_variant_version2.2.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>win_go_variant_strprecompiledgo_variant_version1.1.1</td>
+              <td>win_go_variant_strprecompiledgo_variant_version2.1.0</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=win&configuration=win_go_variant_strprecompiledgo_variant_version1.1.1" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=master&jobName=win&configuration=win_go_variant_strprecompiledgo_variant_version2.1.0" alt="variant">
                 </a>
               </td>
             </tr>

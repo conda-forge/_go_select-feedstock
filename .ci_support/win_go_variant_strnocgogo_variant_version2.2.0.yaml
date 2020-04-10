@@ -3,9 +3,9 @@ channel_sources:
 channel_targets:
 - conda-forge main
 go_variant_str:
-- precompiled
+- nocgo
 go_variant_version:
-- 1.1.1
+- 2.2.0
 zip_keys:
 - - go_variant_version
   - go_variant_str

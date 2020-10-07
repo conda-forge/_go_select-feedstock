@@ -1,5 +1,3 @@
-MACOSX_DEPLOYMENT_TARGET:
-- '10.9'
 channel_sources:
 - conda-forge,defaults
 channel_targets:
@@ -8,10 +6,8 @@ go_variant_str:
 - cgo
 go_variant_version:
 - 2.3.0
-macos_machine:
-- x86_64-apple-darwin13.4.0
-macos_min_version:
-- '10.9'
+target_platform:
+- win-64
 zip_keys:
 - - go_variant_version
   - go_variant_str

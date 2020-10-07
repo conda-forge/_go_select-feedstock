@@ -14,6 +14,8 @@ go_variant_str:
 - cgo
 go_variant_version:
 - 2.3.0
+target_platform:
+- linux-aarch64
 zip_keys:
 - - go_variant_version
   - go_variant_str

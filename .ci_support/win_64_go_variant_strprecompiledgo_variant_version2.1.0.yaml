@@ -3,9 +3,11 @@ channel_sources:
 channel_targets:
 - conda-forge main
 go_variant_str:
-- cgo
+- precompiled
 go_variant_version:
-- 2.3.0
+- 2.1.0
+target_platform:
+- win-64
 zip_keys:
 - - go_variant_version
   - go_variant_str

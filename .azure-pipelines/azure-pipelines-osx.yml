@@ -17,7 +17,15 @@ jobs:
       osx_64_go_variant_strprecompiledgo_variant_version2.1.0:
         CONFIG: osx_64_go_variant_strprecompiledgo_variant_version2.1.0
         UPLOAD_PACKAGES: 'True'
-    maxParallel: 8
+      osx_arm64_go_variant_strcgogo_variant_version2.3.0:
+        CONFIG: osx_arm64_go_variant_strcgogo_variant_version2.3.0
+        UPLOAD_PACKAGES: 'True'
+      osx_arm64_go_variant_strnocgogo_variant_version2.2.0:
+        CONFIG: osx_arm64_go_variant_strnocgogo_variant_version2.2.0
+        UPLOAD_PACKAGES: 'True'
+      osx_arm64_go_variant_strprecompiledgo_variant_version2.1.0:
+        CONFIG: osx_arm64_go_variant_strprecompiledgo_variant_version2.1.0
+        UPLOAD_PACKAGES: 'True'
   timeoutInMinutes: 360
 
   steps:

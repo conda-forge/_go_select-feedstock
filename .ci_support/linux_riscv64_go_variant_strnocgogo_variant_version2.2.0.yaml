@@ -9,7 +9,7 @@ go_variant_str:
 go_variant_version:
 - 2.2.0
 target_platform:
-- linux-64
+- linux-riscv64
 zip_keys:
 - - go_variant_version
   - go_variant_str

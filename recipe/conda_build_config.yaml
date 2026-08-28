@@ -9,5 +9,5 @@ go_variant_str:
   - nocgo  # conda-forge compiled with CGO_ENABLED=0
   - cgo  # conda-forge compiled, with CGO_ENABLED=1
 zip_keys:
-  - go_variant_version
-  - go_variant_str
+  - - go_variant_version
+    - go_variant_str

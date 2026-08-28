@@ -16,7 +16,6 @@ We support three different variants of the golang compiler,
 In version 1 `conda` will prefer the `go-nocgo` version by default, followed
 by `go-cgo` and then `go-precompiled`.
 
-
 Current build status
 ====================
 
@@ -35,7 +34,7 @@ Current build status
     <td>
       <details>
         <summary>
-          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+          <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=main">
             <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=main">
           </a>
         </summary>
@@ -44,42 +43,42 @@ Current build status
           <tbody><tr>
               <td>osx_64_go_variant_strcgogo_variant_version2.3.0</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_go_variant_strcgogo_variant_version2.3.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64_go_variant_strnocgogo_variant_version2.2.0</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_go_variant_strnocgogo_variant_version2.2.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64_go_variant_strprecompiledgo_variant_version2.1.0</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_go_variant_strprecompiledgo_variant_version2.1.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_arm64_go_variant_strcgogo_variant_version2.3.0</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_go_variant_strcgogo_variant_version2.3.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_arm64_go_variant_strnocgogo_variant_version2.2.0</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_go_variant_strnocgogo_variant_version2.2.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_arm64_go_variant_strprecompiledgo_variant_version2.1.0</td>
               <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=7838&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/_go_select-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_go_variant_strprecompiledgo_variant_version2.1.0" alt="variant">
                 </a>
               </td>
